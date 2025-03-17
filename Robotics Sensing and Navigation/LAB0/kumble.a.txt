@@ -1,0 +1,2 @@
+I have a complete Ubuntu 22.04.5 LTS installed 
+I am ready to use Git and GitHub
